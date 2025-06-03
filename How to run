@@ -1,0 +1,5 @@
+1. Download code file here
+2. Make sure JDK(Java Development Kit) is downloaded on your computer
+3. Go to terminal
+4. Compile with javac rotatingSprite.java
+5. Run with java rotatingSprite
